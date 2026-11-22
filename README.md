@@ -34,3 +34,14 @@ The Power BI dashboard includes:
 
 ## Author
 Data Engineering Capstone Project
+## Datasets
+
+- `data/raw/retail_sales_raw.csv`: Original retail sales dataset.
+- `data/curated/retail_sales_curated.csv`: Cleaned and transformed retail sales dataset.
+
+## Project Evidence
+
+- Azure Data Factory pipeline execution screenshot.
+- Azure Blob Storage curated output screenshot.
+- Power BI dashboard screenshot.
+- Power BI report file.
