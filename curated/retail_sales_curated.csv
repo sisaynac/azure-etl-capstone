@@ -1,0 +1,117 @@
+TransactionID,Date,Product,Category,Region,Quantity,UnitPrice,SalesChannel,TotalAmount,salestotal
+TXN1001,2025-06-08,Laptop,Electronics,Central,4,894.49,Online,3577.96,3577.96
+TXN1002,2025-02-04,Running Shoes,Sports,West,2,98.99,Mobile,197.98,197.98
+TXN1003,2025-11-03,Yoga Mat,Sports,East,4,24.06,In-Store,96.24,96.24
+TXN1004,2025-12-05,Office Chair,Furniture,East,1,191.72,Mobile,191.72,191.72
+TXN1005,2025-02-03,Coffee Maker,Home,East,3,58.35,Mobile,175.05,175.05
+TXN1006,2025-10-30,Laptop,Electronics,North,5,911.84,Mobile,4559.20,4559.20
+TXN1007,2025-06-12,Yoga Mat,Sports,Central,2,26.17,Mobile,52.34,52.34
+TXN1008,2025-03-13,Yoga Mat,Sports,East,4,24.91,Online,99.64,99.64
+TXN1009,2025-12-03,Coffee Maker,Home,West,1,61.09,In-Store,61.09,61.09
+TXN1010,2025-04-29,Water Bottle,Accessories,North,3,18.26,In-Store,54.78,54.78
+TXN1012,2025-09-02,Smartphone,Electronics,North,3,645.42,Mobile,1936.26,1936.26
+TXN1013,2025-10-08,Running Shoes,Sports,Central,4,92.73,In-Store,370.92,370.92
+TXN1014,2025-05-22,Backpack,Accessories,South,5,48.89,Mobile,244.45,244.45
+TXN1015,2025-10-21,Running Shoes,Sports,North,1,91.66,Mobile,91.66,91.66
+TXN1016,2025-08-31,Yoga Mat,Sports,South,4,25.50,Mobile,102.00,102.00
+TXN1017,2025-01-14,Coffee Maker,Home,North,3,60.40,Online,181.20,181.20
+TXN1018,2025-09-01,Headphones,Electronics,Central,3,79.76,In-Store,239.28,239.28
+TXN1019,2025-07-26,Laptop,Electronics,East,4,912.11,Online,3648.44,3648.44
+TXN1020,2025-04-21,Coffee Maker,Home,South,4,57.18,In-Store,228.72,228.72
+TXN1021,2025-12-29,Water Bottle,Accessories,Central,2,18.33,Online,36.66,36.66
+TXN1022,2025-01-22,Smartphone,Electronics,Central,5,635.30,Online,3176.50,3176.50
+TXN1023,2025-07-04,Desk Lamp,Home,West,4,35.15,Mobile,140.60,140.60
+TXN1024,2025-05-29,Running Shoes,Sports,South,3,97.47,Online,292.41,292.41
+TXN1025,2025-10-09,Office Chair,Furniture,West,1,181.25,Mobile,181.25,181.25
+TXN1026,2025-02-28,Desk Lamp,Home,Central,4,34.95,Online,139.80,139.80
+TXN1027,2025-03-02,Desk Lamp,Home,South,4,34.76,Online,139.04,139.04
+TXN1028,2025-08-19,Office Chair,Furniture,Central,4,186.39,Online,745.56,745.56
+TXN1029,2025-05-14,Office Chair,Furniture,Central,1,197.73,In-Store,197.73,197.73
+TXN1030,2025-04-08,Running Shoes,Sports,South,3,98.93,Mobile,296.79,296.79
+TXN1031,2025-09-26,Smartphone,Electronics,South,4,646.21,Online,2584.84,2584.84
+TXN1032,2025-11-26,Laptop,Electronics,West,3,896.01,Online,2688.03,2688.03
+TXN1033,2025-07-19,Yoga Mat,Sports,North,2,25.19,In-Store,50.38,50.38
+TXN1034,2025-10-04,Backpack,Accessories,West,1,51.05,In-Store,51.05,51.05
+TXN1035,2025-02-04,Office Chair,Furniture,West,4,190.59,In-Store,762.36,762.36
+TXN1037,2025-09-05,Headphones,Electronics,North,2,77.15,Online,154.30,154.30
+TXN1038,2025-03-04,Coffee Maker,Home,Central,4,62.54,In-Store,250.16,250.16
+TXN1039,2025-04-18,Desk Lamp,Home,North,2,35.27,Online,70.54,70.54
+TXN1040,2025-06-26,Water Bottle,Accessories,North,3,19.02,Online,57.06,57.06
+TXN1041,2025-06-11,Smartphone,Electronics,Central,3,648.90,Online,1946.70,1946.70
+TXN1042,2025-06-22,Coffee Maker,Home,Central,3,58.59,Online,175.77,175.77
+TXN1043,2025-04-14,Coffee Maker,Home,North,3,59.62,In-Store,178.86,178.86
+TXN1044,2025-11-24,Backpack,Accessories,South,1,48.15,In-Store,48.15,48.15
+TXN1045,2025-02-13,Office Chair,Furniture,South,1,192.26,Online,192.26,192.26
+TXN1046,2025-09-23,Running Shoes,Sports,South,4,97.04,Online,388.16,388.16
+TXN1047,2025-03-28,Running Shoes,Sports,North,5,91.95,Online,459.75,459.75
+TXN1048,2025-05-16,Coffee Maker,Home,East,3,61.97,Mobile,185.91,185.91
+TXN1049,2025-08-20,Water Bottle,Accessories,South,2,19.34,In-Store,38.68,38.68
+TXN1050,2025-04-04,Coffee Maker,Home,North,5,62.61,Online,313.05,313.05
+TXN1051,2025-12-20,Coffee Maker,Home,Central,1,59.60,Online,59.60,59.60
+TXN1052,2025-10-01,Backpack,Accessories,South,1,51.90,Mobile,51.90,51.90
+TXN1053,2025-01-09,Headphones,Electronics,West,3,78.52,In-Store,235.56,235.56
+TXN1054,2025-05-17,Running Shoes,Sports,West,3,90.67,Mobile,272.01,272.01
+TXN1055,2025-12-12,Office Chair,Furniture,South,2,197.26,Online,394.52,394.52
+TXN1056,2025-10-31,Headphones,Electronics,West,1,77.22,Online,77.22,77.22
+TXN1057,2025-01-17,Office Chair,Furniture,North,3,196.08,Online,588.24,588.24
+TXN1058,2025-10-11,Office Chair,Furniture,East,5,197.92,In-Store,989.60,989.60
+TXN1059,2025-03-05,Desk Lamp,Home,South,1,33.25,Online,33.25,33.25
+TXN1060,2025-09-05,Headphones,Electronics,South,1,76.97,In-Store,76.97,76.97
+TXN1061,2025-06-02,Water Bottle,Accessories,North,4,18.65,Mobile,74.60,74.60
+TXN1062,2025-09-19,Backpack,Accessories,Central,1,51.14,Online,51.14,51.14
+TXN1063,2025-01-30,Desk Lamp,Home,South,1,36.44,Mobile,36.44,36.44
+TXN1064,2025-06-28,Office Chair,Furniture,South,1,192.08,Mobile,192.08,192.08
+TXN1065,2025-07-02,Coffee Maker,Home,North,2,62.54,In-Store,125.08,125.08
+TXN1066,2025-08-20,Coffee Maker,Home,West,1,57.63,Online,57.63,57.63
+TXN1067,2025-03-02,Yoga Mat,Sports,East,3,26.16,Online,78.48,78.48
+TXN1068,2025-10-21,Water Bottle,Accessories,West,4,18.44,Mobile,73.76,73.76
+TXN1069,2025-04-16,Backpack,Accessories,Central,1,48.00,Online,48.00,48.00
+TXN1070,2025-03-26,Yoga Mat,Sports,West,3,25.07,In-Store,75.21,75.21
+TXN1072,2025-06-05,Office Chair,Furniture,Central,5,191.87,Mobile,959.35,959.35
+TXN1073,2025-04-09,Smartphone,Electronics,South,3,633.12,Mobile,1899.36,1899.36
+TXN1074,2025-10-26,Yoga Mat,Sports,Central,5,24.00,Online,120.00,120.00
+TXN1075,2025-03-12,Desk Lamp,Home,Central,3,33.71,Online,101.13,101.13
+TXN1076,2025-02-22,Office Chair,Furniture,East,5,196.96,Online,984.80,984.80
+TXN1077,2025-06-16,Headphones,Electronics,North,2,77.22,In-Store,154.44,154.44
+TXN1078,2025-01-21,Laptop,Electronics,Central,4,870.71,Online,3482.84,3482.84
+TXN1079,2025-10-21,Desk Lamp,Home,South,3,35.58,Mobile,106.74,106.74
+TXN1080,2025-07-04,Office Chair,Furniture,West,5,196.09,Mobile,980.45,980.45
+TXN1081,2025-11-21,Coffee Maker,Home,South,1,58.08,Online,58.08,58.08
+TXN1082,2025-07-28,Smartphone,Electronics,South,4,644.06,Online,2576.24,2576.24
+TXN1083,2025-11-23,Laptop,Electronics,North,2,902.13,Online,1804.26,1804.26
+TXN1084,2025-01-19,Backpack,Accessories,West,1,52.07,Online,52.07,52.07
+TXN1085,2025-03-29,Backpack,Accessories,Central,5,51.96,Online,259.80,259.80
+TXN1086,2025-10-12,Backpack,Accessories,West,3,50.66,Mobile,151.98,151.98
+TXN1087,2025-04-28,Yoga Mat,Sports,East,1,25.08,Mobile,25.08,25.08
+TXN1088,2025-06-18,Backpack,Accessories,West,5,49.38,In-Store,246.90,246.90
+TXN1089,2025-06-08,Smartphone,Electronics,East,2,626.10,Online,1252.20,1252.20
+TXN1090,2025-03-26,Desk Lamp,Home,East,4,34.49,In-Store,137.96,137.96
+TXN1091,2025-03-08,Yoga Mat,Sports,West,2,24.69,Online,49.38,49.38
+TXN1092,2025-12-13,Smartphone,Electronics,Central,4,676.54,In-Store,2706.16,2706.16
+TXN1093,2025-12-17,Yoga Mat,Sports,Central,2,25.08,In-Store,50.16,50.16
+TXN1094,2025-10-21,Running Shoes,Sports,West,2,94.81,In-Store,189.62,189.62
+TXN1095,2025-01-13,Laptop,Electronics,South,2,921.13,In-Store,1842.26,1842.26
+TXN1097,2025-07-31,Running Shoes,Sports,North,1,96.63,In-Store,96.63,96.63
+TXN1098,2025-02-20,Water Bottle,Accessories,North,4,19.35,Mobile,77.40,77.40
+TXN1099,2025-12-30,Desk Lamp,Home,West,3,35.94,Mobile,107.82,107.82
+TXN1100,2025-04-03,Water Bottle,Accessories,North,1,18.67,Online,18.67,18.67
+TXN1101,2025-02-17,Coffee Maker,Home,East,4,58.02,Online,232.08,232.08
+TXN1102,2025-06-20,Coffee Maker,Home,West,3,60.13,Mobile,180.39,180.39
+TXN1103,2025-03-28,Water Bottle,Accessories,East,4,18.49,Online,73.96,73.96
+TXN1104,2025-02-13,Water Bottle,Accessories,West,5,17.79,Online,88.95,88.95
+TXN1105,2025-12-03,Desk Lamp,Home,West,4,34.67,Online,138.68,138.68
+TXN1106,2025-05-02,Running Shoes,Sports,Central,4,98.26,Mobile,393.04,393.04
+TXN1107,2025-07-14,Running Shoes,Sports,South,2,93.22,Online,186.44,186.44
+TXN1108,2025-02-23,Headphones,Electronics,East,5,83.48,In-Store,417.40,417.40
+TXN1109,2025-03-06,Yoga Mat,Sports,East,2,25.56,Mobile,51.12,51.12
+TXN1110,2025-10-12,Water Bottle,Accessories,North,2,18.46,In-Store,36.92,36.92
+TXN1111,2025-11-05,Running Shoes,Sports,Central,5,96.56,In-Store,482.80,482.80
+TXN1112,2025-11-07,Headphones,Electronics,North,2,81.09,Online,162.18,162.18
+TXN1113,2025-07-18,Desk Lamp,Home,North,3,35.60,Online,106.80,106.80
+TXN1114,2025-10-29,Desk Lamp,Home,Central,4,34.23,In-Store,136.92,136.92
+TXN1115,2025-07-08,Office Chair,Furniture,Central,3,185.26,Mobile,555.78,555.78
+TXN1116,2025-02-10,Yoga Mat,Sports,North,3,26.23,Mobile,78.69,78.69
+TXN1117,2025-01-16,Running Shoes,Sports,North,2,97.68,In-Store,195.36,195.36
+TXN1118,2025-08-31,Water Bottle,Accessories,West,1,18.78,Online,18.78,18.78
+TXN1119,2025-03-31,Running Shoes,Sports,South,5,90.05,In-Store,450.25,450.25
+TXN1120,2025-10-11,Headphones,Electronics,North,5,77.58,Mobile,387.90,387.90
