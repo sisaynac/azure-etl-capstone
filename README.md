@@ -1,47 +1,134 @@
-# Azure End-to-End ETL Capstone Project
+\# Customer Sales Analytics – End-to-End ETL Capstone Project
 
-## Project Overview
-This project demonstrates an end-to-end data engineering ETL pipeline using Microsoft Azure services and Power BI.
 
-## Architecture
-Data Source → Azure Blob Storage (Raw) → Azure Data Factory → Data Transformation → Azure Blob Storage (Curated) → Power BI Dashboard.
 
-## Technologies Used
-- Microsoft Azure
-- Azure Blob Storage
-- Azure Data Factory
-- Mapping Data Flow
-- Power BI
-- GitHub
+\## 1. Project Overview
 
-## Project Structure
-- data/raw: Original raw dataset storage.
-- data/curated: Processed and cleaned data.
-- pipelines: Azure Data Factory pipeline documentation.
-- scripts: Data processing scripts.
-- dashboards: Power BI dashboard files.
+This project demonstrates an end-to-end data engineering and analytics pipeline using customer purchase data. The project processes 10,000 customer records and transforms the data into a format suitable for analysis and visualization.
 
-## Pipeline Status
-The Azure Data Factory pipeline was validated and successfully executed in Debug mode. The transformed output was saved in the curated storage container.
 
-## Dashboard
-The Power BI dashboard includes:
-- Total Sales
-- Sales by Product
-- Monthly Sales Trend
-- Sales Distribution by Region
-- Sales Channel filter
 
-## Author
-Data Engineering Capstone Project
-## Datasets
+\## 2. Project Objectives
 
-- `data/raw/retail_sales_raw.csv`: Original retail sales dataset.
-- `data/curated/retail_sales_curated.csv`: Cleaned and transformed retail sales dataset.
+\- Collect customer purchase data.
 
-## Project Evidence
+\- Store raw and processed datasets.
 
-- Azure Data Factory pipeline execution screenshot.
-- Azure Blob Storage curated output screenshot.
-- Power BI dashboard screenshot.
-- Power BI report file.
+\- Clean and transform data using Python.
+
+\- Enrich data by creating purchase categories.
+
+\- Validate data quality.
+
+\- Load processed data into an SQLite database.
+
+\- Build a data pipeline with orchestration and logging.
+
+\- Create an interactive Power BI dashboard.
+
+
+
+\## 3. Tools and Technologies
+
+\- Python 3.12
+
+\- Pandas
+
+\- SQLite
+
+\- Power BI Desktop
+
+\- Git and GitHub
+
+\- Microsoft Windows
+
+
+
+\## 4. Data Description
+
+The dataset contains 10,000 records with the following columns:
+
+\- CustomerID
+
+\- Name
+
+\- Age
+
+\- PurchaseAmount
+
+\- Country
+
+\- Date
+
+\- PurchaseCategory
+
+
+
+\## 5. ETL Pipeline
+
+The project includes the following stages:
+
+
+
+1\. Data Collection
+
+2\. Data Storage
+
+3\. Data Cleaning and Transformation
+
+4\. Data Enrichment and Integration
+
+5\. Data Validation and Quality Checks
+
+6\. Data Loading into SQLite
+
+7\. Data Modeling (ERD)
+
+8\. Pipeline Orchestration
+
+9\. Monitoring and Logging
+
+10\. Power BI Visualization
+
+11\. Documentation and GitHub
+
+
+
+\## 6. Data Quality Results
+
+\- Total records: 10,000
+
+\- Missing values after cleaning: 0
+
+\- Duplicate records after cleaning: 0
+
+\- Negative purchase amounts: 0
+
+
+
+\## 7. Database
+
+The processed data is stored in an SQLite database named `customer\_database.db`, in a table named `customers`.
+
+
+
+\## 8. Dashboard
+
+An interactive Power BI dashboard was created to display:
+
+\- Total Purchase Amount
+
+\- Customer Count
+
+\- Purchase Category analysis
+
+\- Country-based purchase analysis
+
+\- Country slicer for interactive filtering
+
+
+
+\## 9. Conclusion
+
+This project demonstrates the development of a complete customer sales data pipeline, from data collection and processing to database storage and business intelligence visualization.
+
