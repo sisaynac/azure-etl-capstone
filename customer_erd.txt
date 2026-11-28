@@ -1,0 +1,25 @@
+CUSTOMER DATABASE - ENTITY RELATIONSHIP DIAGRAM (ERD)
+
+TABLE: CUSTOMERS
+
+Primary Key:
+CustomerID
+
+Columns:
+1. CustomerID - Unique customer identifier
+2. Name - Customer name
+3. Age - Customer age
+4. PurchaseAmount - Amount spent by customer
+5. Country - Customer country
+6. Date - Purchase date
+7. PurchaseCategory - Low, Medium, or High
+
+RELATIONSHIP:
+The Customers table stores customer purchase information.
+Each record represents one customer purchase.
+
+DATABASE:
+customer_database.db
+
+TABLE NAME:
+customers
